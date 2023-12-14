@@ -6,7 +6,7 @@
 ¡Bienvenido a mi espacio en GitHub! Soy Juan Ignacio, un entusiasta del desarrollo de software con un profundo interés en la creación de juegos en Unity. Actualmente estoy en un emocionante viaje de aprendizaje y crecimiento en el mundo del desarrollo de videojuegos.
 
 ### Mis Habilidades
-- **Lenguajes de Programación:** C#, JavaScript
+- **Lenguajes de Programación:** C#
 - **Frameworks y Herramientas:** Unity
 - **Experiencia en:** Desarrollo de juegos en Unity
 
@@ -29,7 +29,7 @@ Me encanta contribuir a la comunidad de código abierto. Aquí hay algunas de mi
 ### Contacto
 ¡Conéctate conmigo y sígueme en mi viaje de desarrollo!
 - [LinkedIn](https://www.linkedin.com/in/juanignaciocy/)
-- [Twitter: @juanignaciocy](https://twitter.com/juanignaciocy)
+- [X: @juanignaciocy](https://twitter.com/juanignaciocy)
 - Correo Electrónico: [tu@email.com]
 
 ### ¡Gracias por visitar!
