@@ -29,8 +29,8 @@ Me encanta contribuir a la comunidad de código abierto. Aquí hay algunas de mi
 ### Contacto
 ¡Conéctate conmigo y sígueme en mi viaje de desarrollo!
 - [LinkedIn](https://www.linkedin.com/in/juanignaciocy/)
-- [X: @juanignaciocy](https://twitter.com/juanignaciocy)
-- Correo Electrónico: [tu@email.com]
+- [X: @juanignaciocy](https://twitter.com/JuanIgnacioCay)
+- Correo Electrónico: [juancaylai@gmail.com]
 
 ### ¡Gracias por visitar!
 ¡Agradezco tu tiempo explorando mi perfil! Si tienes alguna pregunta, sugerencia o simplemente quieres charlar sobre desarrollo de juegos o Unity, ¡no dudes en ponerte en contacto!
